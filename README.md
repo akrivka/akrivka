@@ -1,4 +1,4 @@
-#### 👋 I'm a software developer from Czechia currently studying Secure and Reliable Systems at ETH Zürich. 
+### 👋 I'm a software developer from Czechia currently studying Secure and Reliable Systems at ETH Zürich. 
 
 I made some projects:
 
